@@ -6,6 +6,7 @@ export default function HobbyLinks() {
 
   return (
     <div>
+      <h2>Current Hobbies</h2>
       <a href={hobbyLinks[0]}>Dungeons and Dragons </a>
       <br></br>
       <a href={hobbyLinks[1]}>Gundam model Kits</a>
