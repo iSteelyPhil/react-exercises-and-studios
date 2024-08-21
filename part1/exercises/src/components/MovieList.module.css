@@ -1,8 +1,13 @@
+body {
+  border: 2px solid red;
+}
+
 .movieText {
   color: purple;
   text-align: left;
   font-size: 1.3vw;
   background-color: aqua;
+  border: 2px solid red;
 }
 
 .movieHeading {
